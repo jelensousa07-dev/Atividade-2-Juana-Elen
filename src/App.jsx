@@ -1,7 +1,6 @@
 import './App.css'
-import Sobre from './components/Sobre'
-import MeusProjetos from './components/MeusProjetos'
-
+import Sobre from "./components/Sobre";
+import MeusProjetos from "./components/MeusProjetos";
 function App() {
   return (
     <div className="App">
